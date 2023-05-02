@@ -1,8 +1,8 @@
-PWD /Users/riccardo/Desktop/Finance_Report
+PWD /Users/riccardo/Documents/GitHub/finance_report/Finance_Report
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/riccardo/Desktop/Finance_Report/main.tex
+INPUT /Users/riccardo/Documents/GitHub/finance_report/Finance_Report/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls

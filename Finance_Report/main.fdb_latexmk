@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1669397482 "/Users/riccardo/Desktop/Finance_Report/main.tex" "main.pdf" "main" 1669397483
-  "/Users/riccardo/Desktop/Finance_Report/main.tex" 1669397482 16748 9e457ee517aef423f141c74fa443388f ""
+["pdflatex"] 1669399956 "/Users/riccardo/Documents/GitHub/finance_report/Finance_Report/main.tex" "main.pdf" "main" 1669399957
+  "/Users/riccardo/Documents/GitHub/finance_report/Finance_Report/main.tex" 1669399956 16748 9e457ee517aef423f141c74fa443388f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -113,12 +113,12 @@
   "images//ex_ret_by_years10.jpg" 1669316679 86624 0998a534a7dad325483c80ad5b40e27f ""
   "images//excess_returns_time.png" 1668463019 149060 4af6f16d2a9873772f00f2de38a88e8e ""
   "images//p10.jpg" 1669396070 20139 01ec63bf0c5a226148842eb5ef745b86 ""
-  "main.aux" 1669397483 3694 3d94cbc6c7303881aed07282157b02a2 "pdflatex"
-  "main.lof" 1669397483 797 a48e45cfe78d34e44d755ae415c77c23 "pdflatex"
-  "main.lot" 1669397483 259 7e7e0c257f3fb6de516edb9d6f642226 "pdflatex"
-  "main.out" 1669397483 395 4ac14dedfcac97fbff2138098af36f31 "pdflatex"
-  "main.tex" 1669397482 16748 9e457ee517aef423f141c74fa443388f ""
-  "main.toc" 1669397483 220 431e8afdb9d2dc4fb3b08ee574c5fe00 "pdflatex"
+  "main.aux" 1669399957 3694 3d94cbc6c7303881aed07282157b02a2 "pdflatex"
+  "main.lof" 1669399957 797 a48e45cfe78d34e44d755ae415c77c23 "pdflatex"
+  "main.lot" 1669399957 259 7e7e0c257f3fb6de516edb9d6f642226 "pdflatex"
+  "main.out" 1669399957 395 4ac14dedfcac97fbff2138098af36f31 "pdflatex"
+  "main.tex" 1669399956 16748 9e457ee517aef423f141c74fa443388f ""
+  "main.toc" 1669399957 220 431e8afdb9d2dc4fb3b08ee574c5fe00 "pdflatex"
   "subfiles.sty" 1668378202 651 24cb2017a923f4735b1190eecb80faeb ""
   (generated)
   "main.aux"
